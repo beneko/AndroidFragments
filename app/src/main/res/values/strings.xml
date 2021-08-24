@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidFragments</string>
+    <string name="envoyer">Envoyer</string>
+    <string name="messages">Messages</string>
+    <string name="textview">TextView</string>
+    <string name="prenom">Prénom</string>
+    <string name="nom">Nom</string>
+</resources>
